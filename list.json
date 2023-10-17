@@ -8,7 +8,10 @@
         "objectURL": "https://www.metmuseum.org/art/collection/search/317877",
         "objectDate": "14th–15th century",
         "primaryImage": "https://images.metmuseum.org/CRDImages/ao/original/DP100984.jpg",
-        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ao/web-large/DP100984.jpg"
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ao/web-large/DP100984.jpg",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "department": "The Michael C. Rockefeller Wing",
+        "creditLine": "Purchase, Elaine Rosenberg Gift and funds from various donors, 1998"
     },
     {
         "objectID": 436492,
@@ -19,7 +22,10 @@
         "objectURL": "https://www.metmuseum.org/art/collection/search/436492",
         "objectDate": "",
         "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/EP371.jpg",
-        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/EP371.jpg"
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/EP371.jpg",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "department": "European Paintings",
+        "creditLine": "Gift of Cornelius Vanderbilt, 1880"
     },
     {
         "objectID": 189425,
@@ -30,7 +36,10 @@
         "objectURL": "https://www.metmuseum.org/art/collection/search/189425",
         "objectDate": "ca. 1720–25, with later additions",
         "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP158819.jpg",
-        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/es/web-large/DP158819.jpg"
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/es/web-large/DP158819.jpg",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "department": "European Sculpture and Decorative Arts",
+        "creditLine": "Gift of J. Pierpont Morgan, 1906"
     },
     {
         "objectID": 206989,
@@ -41,7 +50,10 @@
         "objectURL": "https://www.metmuseum.org/art/collection/search/206989",
         "objectDate": "ca. 1775–79 with later alterations",
         "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DT8910.jpg",
-        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/es/web-large/DT8910.jpg"
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/es/web-large/DT8910.jpg",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "department": "European Sculpture and Decorative Arts",
+        "creditLine": "The Jack and Belle Linsky Collection, 1982"
     },
     {
         "objectID": 207247,
@@ -52,7 +64,10 @@
         "objectURL": "https://www.metmuseum.org/art/collection/search/207247",
         "objectDate": "ca. 1735–40",
         "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP156648.jpg",
-        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/es/web-large/DP156648.jpg"
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/es/web-large/DP156648.jpg",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "department": "European Sculpture and Decorative Arts",
+        "creditLine": "The Jack and Belle Linsky Collection, 1982"
     },
     {
         "objectID": 459028,
@@ -63,7 +78,10 @@
         "objectURL": "https://www.metmuseum.org/art/collection/search/459028",
         "objectDate": "ca. 1485–95",
         "primaryImage": "https://images.metmuseum.org/CRDImages/rl/original/DP221485.jpg",
-        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/rl/web-large/DP221485.jpg"
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/rl/web-large/DP221485.jpg",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "department": "Robert Lehman Collection",
+        "creditLine": "Robert Lehman Collection, 1975"
     },
     {
         "objectID": 438821,
@@ -74,7 +92,10 @@
         "objectURL": "https://www.metmuseum.org/art/collection/search/438821",
         "objectDate": "1891",
         "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1025.jpg",
-        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DT1025.jpg"
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DT1025.jpg",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "department": "European Paintings",
+        "creditLine": "Bequest of Sam A. Lewisohn, 1951"
     },
     {
         "objectID": 459027,
@@ -85,7 +106,10 @@
         "objectURL": "https://www.metmuseum.org/art/collection/search/459027",
         "objectDate": "ca. 1485–95",
         "primaryImage": "https://images.metmuseum.org/CRDImages/rl/original/DP221483.jpg",
-        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/rl/web-large/DP221483.jpg"
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/rl/web-large/DP221483.jpg",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "department": "Robert Lehman Collection",
+        "creditLine": "Robert Lehman Collection, 1975"
     },
     {
         "objectID": 200668,
@@ -96,7 +120,10 @@
         "objectURL": "https://www.metmuseum.org/art/collection/search/200668",
         "objectDate": "1788",
         "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP242660.jpg",
-        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/es/web-large/DP242660.jpg"
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/es/web-large/DP242660.jpg",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "department": "European Sculpture and Decorative Arts",
+        "creditLine": "Bequest of Mary Stillman Harkness, 1950"
     },
     {
         "objectID": 435882,
@@ -107,7 +134,10 @@
         "objectURL": "https://www.metmuseum.org/art/collection/search/435882",
         "objectDate": "ca. 1890",
         "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT47.jpg",
-        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DT47.jpg"
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DT47.jpg",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "department": "European Paintings",
+        "creditLine": "Bequest of Sam A. Lewisohn, 1951"
     },
     {
         "objectID": 60470,
@@ -118,7 +148,10 @@
         "objectURL": "https://www.metmuseum.org/art/collection/search/60470",
         "objectDate": "first half 14th century",
         "primaryImage": "https://images.metmuseum.org/CRDImages/as/original/DP298241.jpg",
-        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/as/web-large/DP298241.jpg"
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/as/web-large/DP298241.jpg",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "department": "Asian Art",
+        "creditLine": "Gift of Sylvan Barnet and William Burto, in honor of Miyeko Murase, 2014"
     },
     {
         "objectID": 436965,
@@ -129,7 +162,10 @@
         "objectURL": "https://www.metmuseum.org/art/collection/search/436965",
         "objectDate": "1874",
         "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-25465-001.jpg",
-        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-25465-001.jpg"
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-25465-001.jpg",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "department": "European Paintings",
+        "creditLine": "Bequest of Joan Whitney Payson, 1975"
     },
     {
         "objectID": 453385,
@@ -140,7 +176,10 @@
         "objectURL": "https://www.metmuseum.org/art/collection/search/453385",
         "objectDate": "dated 905 AH/1499–1500 CE",
         "primaryImage": "https://images.metmuseum.org/CRDImages/is/original/DP235838.jpg",
-        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/is/web-large/DP235838.jpg"
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/is/web-large/DP235838.jpg",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "department": "Islamic Art",
+        "creditLine": "Purchase, Rogers Fund, Louis E. and Theresa S. Seley Purchase Fund for Islamic Art, and Persian Heritage Foundation Gift, 1997"
     },
     {
         "objectID": 209104,
@@ -151,7 +190,10 @@
         "objectURL": "https://www.metmuseum.org/art/collection/search/209104",
         "objectDate": "ca. 1763–64",
         "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP105733.jpg",
-        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/es/web-large/DP105733.jpg"
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/es/web-large/DP105733.jpg",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "department": "European Sculpture and Decorative Arts",
+        "creditLine": "The Lesley and Emma Sheafer Collection, Bequest of Emma A. Sheafer, 1973"
     },
     {
         "objectID": 192770,
@@ -162,7 +204,10 @@
         "objectURL": "https://www.metmuseum.org/art/collection/search/192770",
         "objectDate": "1459",
         "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP224276.jpg",
-        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/es/web-large/DP224276.jpg"
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/es/web-large/DP224276.jpg",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "department": "European Sculpture and Decorative Arts",
+        "creditLine": "John Stewart Kennedy Fund, 1914"
     },
     {
         "objectID": 839041,
@@ -173,7 +218,10 @@
         "objectURL": "https://www.metmuseum.org/art/collection/search/839041",
         "objectDate": "1837",
         "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DP-19486-001.jpg",
-        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-19486-001.jpg"
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-19486-001.jpg",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "department": "European Paintings",
+        "creditLine": "Gift of Christen Sveaas, in celebration of the Museum's 150th Anniversary, 2020"
     },
     {
         "objectID": 761114,
@@ -184,6 +232,9 @@
         "objectURL": "https://www.metmuseum.org/art/collection/search/761114",
         "objectDate": "late 1630s",
         "primaryImage": "https://images.metmuseum.org/CRDImages/es/original/DP-21676-042.jpg",
-        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/es/web-large/DP-21676-042.jpg"
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/es/web-large/DP-21676-042.jpg",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "department": "European Sculpture and Decorative Arts",
+        "creditLine": "Gift of The Quentin Foundation, 2021"
     }
 ]
