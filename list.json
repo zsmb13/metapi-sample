@@ -28,20 +28,6 @@
         "creditLine": "Gift of William Church Osborn, 1902"
     },
     {
-        "objectID": 11227,
-        "title": "Autumn Oaks",
-        "artistDisplayName": "George Inness",
-        "medium": "Oil on canvas",
-        "dimensions": "20 3/8 x 30 1/8 in. (54.3 x 76.5 cm)",
-        "objectURL": "https://www.metmuseum.org/art/collection/search/11227",
-        "objectDate": "ca. 1878",
-        "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DT264804.jpg",
-        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ad/web-large/DT264804.jpg",
-        "repository": "Metropolitan Museum of Art, New York, NY",
-        "department": "The American Wing",
-        "creditLine": "Gift of George I. Seney, 1887"
-    },
-    {
         "objectID": 202192,
         "title": "Potpourri vase (pot-pourri gondole)",
         "artistDisplayName": "Sèvres Manufactory",
@@ -56,18 +42,18 @@
         "creditLine": "Gift of Samuel H. Kress Foundation, 1958"
     },
     {
-        "objectID": 436532,
-        "title": "Self-Portrait with a Straw Hat (obverse: The Potato Peeler)",
-        "artistDisplayName": "Vincent van Gogh",
+        "objectID": 11227,
+        "title": "Autumn Oaks",
+        "artistDisplayName": "George Inness",
         "medium": "Oil on canvas",
-        "dimensions": "16 x 12 1/2 in. (40.6 x 31.8 cm)",
-        "objectURL": "https://www.metmuseum.org/art/collection/search/436532",
-        "objectDate": "1887",
-        "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1502_cropped2.jpg",
-        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DT1502_cropped2.jpg",
+        "dimensions": "20 3/8 x 30 1/8 in. (54.3 x 76.5 cm)",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/11227",
+        "objectDate": "ca. 1878",
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DT264804.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ad/web-large/DT264804.jpg",
         "repository": "Metropolitan Museum of Art, New York, NY",
-        "department": "European Paintings",
-        "creditLine": "Bequest of Miss Adelaide Milton de Groot (1876-1967), 1967"
+        "department": "The American Wing",
+        "creditLine": "Gift of George I. Seney, 1887"
     },
     {
         "objectID": 11120,
@@ -82,6 +68,20 @@
         "repository": "Metropolitan Museum of Art, New York, NY",
         "department": "The American Wing",
         "creditLine": "Amelia B. Lazarus Fund, 1910"
+    },
+    {
+        "objectID": 436532,
+        "title": "Self-Portrait with a Straw Hat (obverse: The Potato Peeler)",
+        "artistDisplayName": "Vincent van Gogh",
+        "medium": "Oil on canvas",
+        "dimensions": "16 x 12 1/2 in. (40.6 x 31.8 cm)",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/436532",
+        "objectDate": "1887",
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1502_cropped2.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DT1502_cropped2.jpg",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "department": "European Paintings",
+        "creditLine": "Bequest of Miss Adelaide Milton de Groot (1876-1967), 1967"
     },
     {
         "objectID": 438817,
