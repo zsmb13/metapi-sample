@@ -14,18 +14,18 @@
         "creditLine": "Purchase, The Annenberg Foundation Gift, 1993"
     },
     {
-        "objectID": 503219,
-        "title": "Division Viol",
-        "artistDisplayName": "Richard Meares",
-        "medium": "Spruce, ebony, maple",
-        "dimensions": "Height: 46 1/16 in. (117 cm)\r\nWidth (At lower bout): 14 3/4 in. (37.4 cm)\r\nDepth (At bottom block): 5 in. (12.7 cm)",
-        "objectURL": "https://www.metmuseum.org/art/collection/search/503219",
-        "objectDate": "ca. 1680",
-        "primaryImage": "https://images.metmuseum.org/CRDImages/mi/original/DP331229.jpg",
-        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/mi/web-large/DP331229.jpg",
+        "objectID": 11207,
+        "title": "The Flower Girl",
+        "artistDisplayName": "Charles Cromwell Ingham",
+        "medium": "Oil on canvas",
+        "dimensions": "36 x 28 3/8 in. (91.4 x 72.1 cm)",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/11207",
+        "objectDate": "1846",
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DT2784.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ad/web-large/DT2784.jpg",
         "repository": "Metropolitan Museum of Art, New York, NY",
-        "department": "Musical Instruments",
-        "creditLine": "Purchase, Louis V. Bell Fund, Mrs. Vincent Astor Gift, and funds from various donors, 1982"
+        "department": "The American Wing",
+        "creditLine": "Gift of William Church Osborn, 1902"
     },
     {
         "objectID": 11227,
@@ -42,20 +42,6 @@
         "creditLine": "Gift of George I. Seney, 1887"
     },
     {
-        "objectID": 436532,
-        "title": "Self-Portrait with a Straw Hat (obverse: The Potato Peeler)",
-        "artistDisplayName": "Vincent van Gogh",
-        "medium": "Oil on canvas",
-        "dimensions": "16 x 12 1/2 in. (40.6 x 31.8 cm)",
-        "objectURL": "https://www.metmuseum.org/art/collection/search/436532",
-        "objectDate": "1887",
-        "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1502_cropped2.jpg",
-        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DT1502_cropped2.jpg",
-        "repository": "Metropolitan Museum of Art, New York, NY",
-        "department": "European Paintings",
-        "creditLine": "Bequest of Miss Adelaide Milton de Groot (1876-1967), 1967"
-    },
-    {
         "objectID": 202192,
         "title": "Potpourri vase (pot-pourri gondole)",
         "artistDisplayName": "Sèvres Manufactory",
@@ -68,6 +54,20 @@
         "repository": "Metropolitan Museum of Art, New York, NY",
         "department": "European Sculpture and Decorative Arts",
         "creditLine": "Gift of Samuel H. Kress Foundation, 1958"
+    },
+    {
+        "objectID": 436532,
+        "title": "Self-Portrait with a Straw Hat (obverse: The Potato Peeler)",
+        "artistDisplayName": "Vincent van Gogh",
+        "medium": "Oil on canvas",
+        "dimensions": "16 x 12 1/2 in. (40.6 x 31.8 cm)",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/436532",
+        "objectDate": "1887",
+        "primaryImage": "https://images.metmuseum.org/CRDImages/ep/original/DT1502_cropped2.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ep/web-large/DT1502_cropped2.jpg",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "department": "European Paintings",
+        "creditLine": "Bequest of Miss Adelaide Milton de Groot (1876-1967), 1967"
     },
     {
         "objectID": 11120,
@@ -180,6 +180,20 @@
         "repository": "Metropolitan Museum of Art, New York, NY",
         "department": "Musical Instruments",
         "creditLine": "Gift of Mrs. Henry McSweeney, 1959"
+    },
+    {
+        "objectID": 503219,
+        "title": "Division Viol",
+        "artistDisplayName": "Richard Meares",
+        "medium": "Spruce, ebony, maple",
+        "dimensions": "Height: 46 1/16 in. (117 cm)\r\nWidth (At lower bout): 14 3/4 in. (37.4 cm)\r\nDepth (At bottom block): 5 in. (12.7 cm)",
+        "objectURL": "https://www.metmuseum.org/art/collection/search/503219",
+        "objectDate": "ca. 1680",
+        "primaryImage": "https://images.metmuseum.org/CRDImages/mi/original/DP331229.jpg",
+        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/mi/web-large/DP331229.jpg",
+        "repository": "Metropolitan Museum of Art, New York, NY",
+        "department": "Musical Instruments",
+        "creditLine": "Purchase, Louis V. Bell Fund, Mrs. Vincent Astor Gift, and funds from various donors, 1982"
     },
     {
         "objectID": 11396,
@@ -306,20 +320,6 @@
         "repository": "Metropolitan Museum of Art, New York, NY",
         "department": "Robert Lehman Collection",
         "creditLine": "Robert Lehman Collection, 1975"
-    },
-    {
-        "objectID": 11207,
-        "title": "The Flower Girl",
-        "artistDisplayName": "Charles Cromwell Ingham",
-        "medium": "Oil on canvas",
-        "dimensions": "36 x 28 3/8 in. (91.4 x 72.1 cm)",
-        "objectURL": "https://www.metmuseum.org/art/collection/search/11207",
-        "objectDate": "1846",
-        "primaryImage": "https://images.metmuseum.org/CRDImages/ad/original/DT2784.jpg",
-        "primaryImageSmall": "https://images.metmuseum.org/CRDImages/ad/web-large/DT2784.jpg",
-        "repository": "Metropolitan Museum of Art, New York, NY",
-        "department": "The American Wing",
-        "creditLine": "Gift of William Church Osborn, 1902"
     },
     {
         "objectID": 10481,
